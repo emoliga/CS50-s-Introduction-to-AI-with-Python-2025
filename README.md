@@ -1,6 +1,4 @@
-<img>
-
-&nbsp;
+<img src="/image/CS50AI_pll.png">
 
 These are the different backgrounds of the projects:
 
