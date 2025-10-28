@@ -1,3 +1,7 @@
+<img>
+
+&nbsp;
+
 These are the different backgrounds of the projects:
 
 &nbsp;
