@@ -6,7 +6,7 @@ These are the different backgrounds of the projects:
 
 ## Project 1. Search. 
 
-<h3> Degrees </h3>
+<h4> Degrees </h4>
 
 According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, where each step consists of finding a film that two actors both starred in.
 
